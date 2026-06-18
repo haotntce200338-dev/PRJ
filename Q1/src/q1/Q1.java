@@ -43,7 +43,7 @@ public class Q1 {
         try (Scanner sc = new Scanner(new File(fi))) {
             //--END FIXED PART----------------------------
 
-            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE:
+            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE: Quanhanh ne
             if (sc.hasNextInt()) {
                 n = sc.nextInt();
                 m = sc.nextInt();
@@ -89,7 +89,7 @@ public class Q1 {
      * Main algorithm
      */
     public void solve() {
-        //--END FIXED PART----------------------------
+//--END FIXED PART----------------------------
 
         //ALGORITHM - @STUDENT: ADD YOUR CODE HERE:
         buildMatrixString();
