@@ -122,7 +122,7 @@ public class Q1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here thanh da o day
         Q1 q = new Q1();
         q.setFile(args);
         q.read();
