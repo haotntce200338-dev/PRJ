@@ -24,7 +24,7 @@ public class Q1 {
     StringBuilder result = new StringBuilder();
 
     //--FIXED PART - DO NOT EDIT ANY THINGS HERE--
-    //--START FIXED PART--------------------------    
+    //--START FIXED PART--------------------------    hhhhhjnmnn
     String fi, fo;
 
     /**
