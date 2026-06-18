@@ -23,7 +23,7 @@ public class Q1 {
     int[][] matrix;
     StringBuilder result = new StringBuilder();
 
-    //--FIXED PART - DO NOT EDIT ANY THINGS HERE--
+    //--FIXED PART - DO NOT EDIT ANY THINGS HERE-- main 1111
     //--START FIXED PART--------------------------bao da o day    
     String fi, fo;
 
@@ -44,7 +44,7 @@ public class Q1 {
         try (Scanner sc = new Scanner(new File(fi))) {
             //--END FIXED PART----------------------------
 
-            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE:
+            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE: edit 
             if (sc.hasNextInt()) {
                 n = sc.nextInt();
                 m = sc.nextInt();
