@@ -23,7 +23,7 @@ public class Q1 {
     StringBuilder result = new StringBuilder();
 
     //--FIXED PART - DO NOT EDIT ANY THINGS HERE--
-    //--START FIXED PART--------------------------bao da o day    
+    //--START FIXED PART--------------------------    hhhhhjnmnn
     String fi, fo;
 
     /**
@@ -128,5 +128,5 @@ public class Q1 {
         q.solve();
         q.printResult();
     }
-    //--END FIXED PART----------------------------    
+    //--END FIXED PART---------------------------- dung vua o day    
 }
