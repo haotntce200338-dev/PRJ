@@ -9,7 +9,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Q1 {
@@ -68,7 +67,7 @@ public class Q1 {
             System.out.println("Input Exception # " + ex);
         }
     }
-    //--END FIXED PART----------------------------
+    //--END FIXED PART---------------------------- duy khanh -----
 
     //ALGORITHM - @STUDENT: ADD YOUROWN METHODS HERE (IF NEED):
     public void buildMatrixString() {
