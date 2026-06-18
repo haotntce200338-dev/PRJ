@@ -44,7 +44,7 @@ public class Q1 {
         try (Scanner sc = new Scanner(new File(fi))) {
             //--END FIXED PART----------------------------
 
-            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE: edit 
+            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE: edit code
             if (sc.hasNextInt()) {
                 n = sc.nextInt();
                 m = sc.nextInt();
