@@ -44,7 +44,7 @@ public class Q1 {
         try (Scanner sc = new Scanner(new File(fi))) {
             //--END FIXED PART----------------------------
 
-            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE:
+            //INPUT - @STUDENT: ADD YOUR CODE FOR INPUT HERE: Quanhanh ne
             if (sc.hasNextInt()) {
                 n = sc.nextInt();
                 m = sc.nextInt();
@@ -90,7 +90,7 @@ public class Q1 {
      * Main algorithm
      */
     public void solve() {
-        //--END FIXED PART----------------------------
+//--END FIXED PART----------------------------
 
         //ALGORITHM - @STUDENT: ADD YOUR CODE HERE:
         buildMatrixString();
@@ -122,7 +122,7 @@ public class Q1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here thanh da o day
         Q1 q = new Q1();
         q.setFile(args);
         q.read();
